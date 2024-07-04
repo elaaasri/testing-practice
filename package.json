@@ -7,6 +7,6 @@
   },
   "scripts": {
     "test": "jest",
-    "watch": "jest --watch"
+    "watch": "jest --watchAll"
   }
 }
